@@ -1,4 +1,4 @@
-# Cyber-Risk-Analysis
+# Cyber-Risk-Analysis-Frameworks
 About me... 
 <br /> Hi, my name is Ian! I am an aspiring Cybersecurity graduate with a strong passion in everything tech but specifically Cyber risk management, governance, and mitigating security threats. This github respitory serves as a collection of my research, learning and practical application in developing cybersecurity frameworks. 
 
