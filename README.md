@@ -9,9 +9,9 @@ My goal is to demonstrate my knowledge and improve my skills in cyber risk asses
 
 ## Repository Overview
 This repository includes:
-- ✔️ Summaries of key cybersecurity risk frameworks
-- ✔️ Templates for security policies and governance documents
-- ✔️ Risk assessment methodologies and case studies
+✔️ Summaries of key cybersecurity risk frameworks
+✔️ Templates for security policies and governance documents
+✔️ Risk assessment methodologies and case studies
 
 I hope this serves as a valuable resource for anyone interested in cyber risk management. Feel free to explore, learn, and contribute! 🚀
 
